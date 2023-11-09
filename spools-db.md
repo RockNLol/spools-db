@@ -11,3 +11,4 @@ This table is a collection of empty spool weights for various filament materials
 | Fiberlogy Nylon PA12+CF  | PA12+CF  | Plastic        | 500            | 265                    |
 | FormFutura ReForm rTitan | ABS      | Cardboard      | 1000           | 185                    |
 | FormFutura ReForm rTitan | ABS      | Cardboard      | 2300           | 265                    |
+| Nobufil                  | ABS      | Plastic        | 1000           | 250                    |
