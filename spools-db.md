@@ -9,6 +9,7 @@ This table is a collection of empty spool weights for various filament materials
 | BiBo PLA                 | PLA      | Plastic        | 1000           | 221                    |   
 | Elegoo PLA               | PLA      | Cardboard      | 1000           | 171                    |
 | ESUN ABS+                | ABS      | Plastic        | 1000           | 203                    |
+| ESUN ABS+ (old transparent spool)| ABS | Plastic     | 1000           | 216                    |
 | Extrudr DuraPro ASA      | ASA      | Plastic        | 750            | 230                    |
 | Extrudr DuraPro ASA CF   | ASA-CF   | Plastic        | 750            | 292                    |
 | Fiberlogy ABS Black      | ABS      | Plastic        | 850            | 275                    |
@@ -18,4 +19,6 @@ This table is a collection of empty spool weights for various filament materials
 | IEMAI ASA CF             | ASA-CF   | Plastic        | 1000           | 140                    |
 | Material4Print PLA       | PLA      | Plastic        | 750            | 240                    |
 | Nobufil                  | ABS      | Plastic        | 1000           | 250                    |
+| Sparta3D Sparkle ABS+    | ABS      | Cardboard      | 1000           | 138                    |
 | Sunlu PETG               | PETG     | Plastic        | 1000           | 128                    |
+| Sunlu Silk PLA+          | PLA      | Plastic        | 1000           | 131                    |
