@@ -5,10 +5,14 @@ This table is a collection of empty spool weights for various filament materials
 |--------------------------|----------|----------------|----------------|------------------------|  
 | 3DJake NiceABS           | ABS      | Plastic        | 1000           | 234                    |
 | 3DJake NiceABS           | ABS      | Plastic        | 2300           | 678                    |   
+| Elegoo PLA               | PLA      | Cardboard      | 1000           | 171                    |
 | ESUN ABS+                | ABS      | Plastic        | 1000           | 203                    |
 | Extrudr DuraPro ASA      | ASA      | Plastic        | 750            | 230                    |
+| Extrudr DuraPro ASA CF   | ASA-CF   | Plastic        | 750            | 292                    |
 | Fiberlogy ABS Black      | ABS      | Plastic        | 850            | 275                    |
 | Fiberlogy Nylon PA12+CF  | PA12+CF  | Plastic        | 500            | 265                    |
 | FormFutura ReForm rTitan | ABS      | Cardboard      | 1000           | 185                    |
 | FormFutura ReForm rTitan | ABS      | Cardboard      | 2300           | 265                    |
+| IEMAI ASA CF             | ASA-CF   | Plastic        | 1000           | 140                    |
+| Material4Print PLA       | PLA      | Plastic        | 750            | 240                    |
 | Nobufil                  | ABS      | Plastic        | 1000           | 250                    |
