@@ -19,6 +19,7 @@ This table is a collection of empty spool weights for various filament materials
 | IEMAI ASA CF             | ASA-CF   | Plastic        | 1000           | 140                    |
 | Material4Print PLA       | PLA      | Plastic        | 750            | 240                    |
 | Nobufil                  | ABS      | Plastic        | 1000           | 250                    |
+| Prusament PC Blend CF    | PC-CF    | Plastic        | 800            | 193                    |
 | Sparta3D Sparkle ABS+    | ABS      | Cardboard      | 1000           | 138                    |
 | Sunlu PETG               | PETG     | Plastic        | 1000           | 128                    |
 | Sunlu Silk PLA+          | PLA      | Plastic        | 1000           | 131                    |
