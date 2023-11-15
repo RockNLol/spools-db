@@ -5,6 +5,7 @@ This table is a collection of empty spool weights for various filament materials
 |-------------------------------------------|----------|----------------|----------------|------------------------|  
 | 3DJake NiceABS                            | ABS      | Plastic        | 1000           | 234                    |
 | 3DJake NiceABS                            | ABS      | Plastic        | 2300           | 678                    |   
+| [Alchemy3D Sparkle ABS+](../images/Sparta3D_Sparkle_ABS+_Migo-8908.jpg) | ABS | Cardboard | 1000 | 138              |
 | [AzureFilm ASA](../images/AzureFilm_ASA_Tobi-2845.jpg) | ASA | Plastic   | 1000           | 221                    |   
 | [BiBo PLA](../images/BiBo_PLA_Tobi-2845.jpg)  | PLA     | Plastic        | 1000           | 221                    |   
 | Elegoo PLA                                | PLA      | Cardboard      | 1000           | 171                    |
